@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MacAndPhoneDoc</name>
+    </assembly>
+    <members>
+        <member name="T:Utility">
+            <summary>
+            Summary description for Utility
+            </summary>
+            
+        </member>
+    </members>
+</doc>
